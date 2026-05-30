@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.school-header {
+  background: linear-gradient(135deg, #1e40af 0%, #3b82f6 100%);
+}
